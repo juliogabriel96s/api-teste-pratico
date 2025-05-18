@@ -1,5 +1,5 @@
 Projeto:
-foi utilizado fastify, zod, vitest para os testes unitarios.
+foi utilizado fastify, zod, vitest para os testes unitarios. 
 
 
 Rotas 
